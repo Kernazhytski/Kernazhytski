@@ -45,7 +45,7 @@
 <p align="center">Thank you for visiting my GitHub profile! 🚀</p>
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernazhytski&show_icons=true&theme=gruvbox)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernazhytski&show_icons=true&theme=gruvbox&include_all_commits=true&show=prs_merged_percentage)
 </div>
 <div align="center">
 
