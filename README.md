@@ -13,6 +13,7 @@
 <ul align="center">
   <li><strong>NestJS Services</strong>: Developed services for data storage and complex computational operations.</li>
   <li><strong>External Service Integration</strong>: Integrated AWS, GoogleAPI, and OpenAI services into Node.js applications.</li>
+  <li><strong>Setting up authorization in keycloak via passwords and social networks.</li>
 </ul>
 
 <h3 align="center">Java Spring Development</h3>
@@ -39,6 +40,15 @@
 
 <h2 align="center">Contact Me</h2>
 
-<p align="center">Feel free to reach out to me via email at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+<p align="center">Feel free to reach out to me via email at <a href="mailto:a_ker@list.ru">a_ker@list.ru</a>.</p>
 
 <p align="center">Thank you for visiting my GitHub profile! 🚀</p>
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernazhytski&show_icons=true&theme=gruvbox)
+</div>
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernazhytski&&hide_progress=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
