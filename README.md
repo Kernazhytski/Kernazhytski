@@ -32,7 +32,7 @@
 
 <h2 align="center">Skills</h2>
 
-<p align="center">Programming Languages: JavaScript, Java<br>
+<p align="center">Programming Languages: JavaScript (TypeScript), Java<br>
   Frameworks: NestJS, Spring<br>
   Databases: SQL, NoSQL<br>
   Tools: Docker, Git<br>
